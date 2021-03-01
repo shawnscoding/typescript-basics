@@ -76,16 +76,9 @@
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [
-    "basics.ts",
-    "functions.ts",
-    "objs-arrs-turples-enums.ts",
-    "union-aliasis.ts",
-    "unknown-never-type.ts",
-    "contructorFn.ts",
-    "thisInClassDemo.ts",
-    "class.ts",
-    "singletons.ts",
-    "interfaces.ts",
+    "classes-interfaces",
+    "types",
+    "advancedTypes",
     "node_modules" // this is default so not needed
   ]
   // "include": ["src/app.ts", "src/analytics.ts"]
