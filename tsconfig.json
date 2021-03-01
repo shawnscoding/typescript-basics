@@ -85,7 +85,7 @@
     "thisInClassDemo.ts",
     "class.ts",
     "singletons.ts",
-    "app.ts",
+    "interfaces.ts",
     "node_modules" // this is default so not needed
   ]
   // "include": ["src/app.ts", "src/analytics.ts"]
